@@ -7,9 +7,8 @@ Tabula is a a casual turn-based strategy game for two players in which the objec
 <ul>
 <li><img src="IMG_0184.JPG" height="300" width="400"></li>
 <li><img src="IMG_0188.JPG" height="300" width="400"></li>
-<li><img src="IMG_4299.JPG" height="300" width="225">
 <li><img src="IMG_6026.JPG" height="300" width="400"></li>
-<li></li>
+<li><img src="staffpic.jpg" height="300" width="400"></li>
 </ul>
 
 For original Kickstarter page:
